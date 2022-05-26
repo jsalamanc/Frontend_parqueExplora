@@ -5,6 +5,12 @@ Fronted desarrollado bajo las tecnologias, **Nextjs**, **Tailwinds**,**Swiperjs*
 para el manejo del formulario se utiliza la libreria **Formik**, y para elmfuncionamiento del formulario
 se utiliza **Emailjs**.
 
+para bajarse el repositorio, ejecute el siguiente comando:
+
+```bash
+git clone https://github.com/jsalamanc/prueba_parqueExplora.git
+```
+
 Primero, para instalar las dependencias ejecute el siguiente comando:
 
 ```bash
