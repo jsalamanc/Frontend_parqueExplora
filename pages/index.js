@@ -3,6 +3,7 @@ import axios from 'axios';
 import { RecentEntry } from '../components/index/section1/RecentEntry';
 import { SliderIndex } from '../components/index/section2/SliderIndex';
 import styles from '../styles/Index.module.css';
+import { AllEntry } from "../components/index/section/AllEntry";
 export default function Home({items}) {
 
   return (
@@ -22,6 +23,9 @@ export default function Home({items}) {
             </a>
           </div>
         </div>
+      </section>
+      <section className='mt-32'>
+        <AllEntry data={items}/>
       </section>
     </Container>
   )

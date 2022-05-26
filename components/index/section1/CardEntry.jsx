@@ -2,8 +2,6 @@ import React from 'react';
 import styles from '../../../styles/Index.module.css';
 
 export const CardEntry = ({data}) => {
-    console.log(data.yoast_head_json.twitter_misc);
-
 
     return (
         <>
