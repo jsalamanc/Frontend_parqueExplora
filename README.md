@@ -22,3 +22,5 @@ yarn dev
 Abra [http://localhost:3000](http://localhost:3000) con su navegador para ver el resultado.
 
 en  la pagina inicio y experiencia encontrara toda la informacion del frontend construida
+
+se agrego la pagina 404 para el manejo de rutas desconocidas.
